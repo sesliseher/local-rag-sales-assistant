@@ -20,13 +20,13 @@ This project is a fully local, privacy-first **RAG (Retrieval-Augmented Generati
 ``bash
 git clone [https://github.com/sesliseher/local-rag-sales-assistant.git](https://github.com/sesliseher/local-rag-sales-assistant.git)
 cd local-rag-sales-assistant
-2. Create and activate a virtual environment:
+# 2. Create and activate a virtual environment:
 python -m venv venv
 
-# For Windows:
+ For Windows:
 .\venv\Scripts\activate
 
-# For Mac/Linux:
+For Mac/Linux:
 source venv/bin/activate
 
 # 3. Install dependencies:
