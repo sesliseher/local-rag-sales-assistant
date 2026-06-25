@@ -1,0 +1,47 @@
+{
+  "araclar": [
+    {
+      "model": "Alpha",
+      "segment": "B-SUV",
+      "motor_gucu_hp": 130,
+      "yakit_tipi": "Benzin",
+      "vites": "Otomatik",
+      "bagaj_hacmi_lt": 420,
+      "maksimum_hiz_kmh": 195,
+      "guvenlik_ozellikleri": [
+        "Şerit Takip Asistanı",
+        "Acil Fren Destek Sistemi",
+        "Yokuş Kalkış Desteği"
+      ]
+    },
+    {
+      "model": "Beta",
+      "segment": "C-Sedan",
+      "motor_gucu_hp": 160,
+      "yakit_tipi": "Hibrit",
+      "vites": "e-CVT",
+      "bagaj_hacmi_lt": 510,
+      "maksimum_hiz_kmh": 210,
+      "guvenlik_ozellikleri": [
+        "Adaptif Hız Sabitleyici",
+        "Kör Nokta Uyarı Sistemi",
+        "Şerit Takip Asistanı"
+      ]
+    },
+    {
+      "model": "Gamma",
+      "segment": "D-SUV",
+      "motor_gucu_hp": 220,
+      "yakit_tipi": "Plug-in Hibrit",
+      "vites": "Otomatik",
+      "bagaj_hacmi_lt": 620,
+      "maksimum_hiz_kmh": 235,
+      "guvenlik_ozellikleri": [
+        "360 Derece Kamera",
+        "Adaptif Hız Sabitleyici",
+        "Kör Nokta Uyarı Sistemi",
+        "Otonom Acil Frenleme"
+      ]
+    }
+  ]
+}
