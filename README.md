@@ -29,15 +29,15 @@ python -m venv venv
 # For Mac/Linux:
 source venv/bin/activate
 
-3. Install dependencies:
+# 3. Install dependencies:
 pip install -r requirements.txt
 
-4. Start Ollama and download the model:
+#4. Start Ollama and download the model:
 Make sure Ollama is installed on your system. Open a separate terminal and run:
 ollama run llama3
 
 
-5. Run the application:
+# 5. Run the application:
 python app.py
 
 Final! You are create a local RAG
