@@ -16,7 +16,7 @@ This project is a fully local, privacy-first **RAG (Retrieval-Augmented Generati
 
 ### 🚀 Quick Start
 
-**1. Clone the repository:**
+# 1. Clone the repository:**
 ``bash
 git clone [https://github.com/sesliseher/local-rag-sales-assistant.git](https://github.com/sesliseher/local-rag-sales-assistant.git)
 cd local-rag-sales-assistant
